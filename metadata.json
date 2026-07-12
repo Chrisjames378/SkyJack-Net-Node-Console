@@ -1,0 +1,6 @@
+{
+  "name": "SkyJack Net Node Console",
+  "description": "An operational control deck and billing integration platform for SkyJack Net satellite hardware routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
